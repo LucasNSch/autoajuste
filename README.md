@@ -1,0 +1,2 @@
+# autoajuste
+Auto Ajuste
